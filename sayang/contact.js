@@ -1,4 +1,4 @@
-
+// when click submit on contact
 function submitData() {
     let name = document.getElementById("input-name").value
     let email = document.getElementById("input-email").value
@@ -29,4 +29,3 @@ function submitData() {
     console.log(subject)
     console.log(message)
 }
-
